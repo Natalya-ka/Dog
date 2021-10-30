@@ -24,10 +24,10 @@ public class Dog {
         this.age=age;
     }
     public static void main(String[]args){
-        Dog tom=new Dog("Tom",5);
-        tom.setAge(6);
+        Dog tom=new Dog("Nik",4);
+        tom.setAge(5);
         tom.bark("woof");
-        System.out.println("Age Tom-"+tom.getAge()+"years");
+        System.out.println("Age Nik-"+tom.getAge()+"years");
 
     }
 }
