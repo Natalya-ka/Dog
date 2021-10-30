@@ -28,8 +28,7 @@ public class Dog {
         tom.setAge(6);
         tom.bark("woof");
         System.out.println("Age Tom-"+tom.getAge()+"years");
-        System.out.println("Age Tom-"+tom.getAge()+"years");
-        System.out.println("Age Tom-"+tom.getAge()+"years");
+
     }
 }
 
